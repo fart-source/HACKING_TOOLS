@@ -6,3 +6,5 @@ This file contains various programs and functions to make you feel powerful over
 
 ONLY FOR WINDOWS.
 Do not complain that it says it is not compatible with your OS.
+
+THIS IS THE ALPHA AND IT JUST HAD A MAJOR UPDATE. MOST FILES ARE MISSING UNTIL I ADD THEM INTO THE PROGRAM AGAIN. (i.e. the auto clicker)
